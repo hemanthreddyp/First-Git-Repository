@@ -16,6 +16,7 @@ public class StudentBean {
 		System.out.println("student bean: new created method");
 		System.out.println("student bean: new created method");
 		System.out.println("student bean: new created method");
+		System.out.println("student bean: old created method");
 		this.sno=sno;
 	}
 	public int getSno()
