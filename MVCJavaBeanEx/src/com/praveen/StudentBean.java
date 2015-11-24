@@ -13,6 +13,7 @@ public class StudentBean {
 	public void setSno(int sno)
 	{
 		System.out.println("student bean: setSno() method");
+		System.out.println("student bean: new created method");
 		this.sno=sno;
 	}
 	public int getSno()
